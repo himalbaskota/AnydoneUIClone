@@ -1,0 +1,44 @@
+.color-header {
+  color: #142a72;
+}
+.font-weight-bolder {
+  font-weight: bolder !important;
+}
+.about-us-title {
+  border-left: 22px solid #376af5 !important;
+  padding-left: 20px !important;
+  letter-spacing: 4px !important;
+  text-align: initial;
+  font-size: 36px !important;
+  line-height: 40px !important;
+}
+
+.about-us-desc {
+  font-size: 22px !important;
+  line-height: 44px !important;
+  letter-spacing: 0.01em;
+  color: #656565;
+  font-weight: 700 !important;
+  text-align: justify !important;
+}
+
+.mission-css {
+  background-color: #4b88f8 !important;
+  color: white;
+  padding: 36px 18px;
+  border-radius: 20px;
+  align-items: center !important;
+  display: flex !important;
+  flex-direction: column !important;
+  justify-content: center !important;
+}
+
+.mission-heading {
+  text-align: center !important;
+  font-size: 32px;
+  line-height: 35px;
+}
+.mission-desc {
+  font-size: 25px !important;
+  line-height: 36px !important;
+}

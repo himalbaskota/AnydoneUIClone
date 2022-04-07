@@ -1,0 +1,98 @@
+.text-description {
+  font-size: 22px;
+  line-height: 25px;
+  text-emphasis-color: #6c757d;
+  line-height: 33px;
+}
+
+.home-button {
+  display: flex;
+  /* flex-direction: column; */
+  align-items: center;
+}
+
+.button-primary-rounded_lg {
+  border-radius: 8px !important;
+}
+
+.button-outline_lg {
+  color: #376af5;
+  background: #ffffff;
+  border: 2px solid #376af5;
+  /* border-radius: 0; */
+  font-style: normal;
+  font-weight: 600;
+  font-size: 25px;
+  line-height: 38px;
+  letter-spacing: 0.5px;
+  /* padding: 16px 32px; */
+}
+
+.button-primary_lg {
+  background: #376af5;
+  color: #ffffff;
+  /* border-radius: 0; */
+  font-style: normal;
+  font-weight: 600;
+  font-size: 25px;
+  line-height: 26px;
+  letter-spacing: 0.5px;
+  padding: 12px 32px;
+}
+
+.text-title {
+  font-size: 42px;
+  line-height: 60px;
+  color: #142a72;
+}
+.text-quote {
+  font-size: 28px;
+  line-height: 35px;
+  letter-spacing: 2px;
+  font-weight: 600;
+  margin: auto;
+}
+.text-quotes {
+  font-size: 28px;
+  line-height: 40px;
+  letter-spacing: 2px;
+  font-weight: 600;
+  margin: auto;
+}
+
+.text-lg-left {
+  text-align: left !important;
+}
+
+.desc {
+  font-size: 18px;
+  line-height: 30px;
+  color: #656565;
+}
+
+.learn_more_button {
+  color: #376af5;
+  background: #ffffff;
+  border: 2px solid #376af5;
+  border-radius: 10px;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 19px;
+  letter-spacing: 1.12px;
+  padding: 13px 18px;
+}
+
+.bg_color {
+  background-color: #eff3ff;
+}
+
+.text_banner {
+  font-size: 45px;
+  line-height: 54px;
+  color: #142a72;
+  font-family: "Lato" !important;
+  font-style: normal;
+  font-weight: 900;
+  letter-spacing: 0.02em;
+}

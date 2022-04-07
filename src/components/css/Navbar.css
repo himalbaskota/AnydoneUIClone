@@ -1,0 +1,14 @@
+.nav-item {
+  padding: 18px;
+  height: 70px;
+  font-family: "Lato", sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 17px;
+  line-height: 19px;
+  letter-spacing: 1.12px;
+
+  color: #0b1953;
+  padding-right: 3;
+  padding-left: 3;
+}
